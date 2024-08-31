@@ -90,10 +90,5 @@ Access the Swagger UI documentation at:
 4. **Push to the branch**: `git push origin feature/YourFeature`
 5. **Create a new Pull Request**.
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the content as necessary based on any additional features or specific instructions related to your project.
