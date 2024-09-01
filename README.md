@@ -40,6 +40,7 @@ KoinX Assignment is a Node.js application designed to manage and analyze Ethereu
     ```env
     PORT=4000
     MONGO_URI=mongodb://localhost:27017/KoinX
+    COINGECKO_API_URL=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=inr
     ETHERSCAN_API_KEY=your-etherscan-api-key
     COINGECKO_API_URL=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=inr
     ```
